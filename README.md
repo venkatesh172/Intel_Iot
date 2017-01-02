@@ -1,2 +1,5 @@
 # Intel_Iot
-this is the repository which will contain my works related to Intel-Iot cource
+===========
+
+
+This repository will contain my project assignment, coding and other materials related to Intel-iot course.
